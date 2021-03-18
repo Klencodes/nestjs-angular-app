@@ -1,0 +1,10 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5000,
+    "username": "postgres",
+    "password": "McBank$$",
+    "database": "mega_shop",
+    "entities": ["__dirname + '/**/*.entity{.ts,.js}'"],
+    "synchronize": true
+}
